@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefitImpl", "RefitImpl\RefitImpl.csproj", "{20FF485D-1FED-419E-96FC-CD921BDDFC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefitApi", "RefitApi\RefitApi.csproj", "{4BEB1F3C-24AB-40E2-BAE4-54785B7E5F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumer", "ApiConsumer\ApiConsumer.csproj", "{593DEF5B-E212-4EE6-8930-BBB51D02C84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FF485D-1FED-419E-96FC-CD921BDDFC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FF485D-1FED-419E-96FC-CD921BDDFC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FF485D-1FED-419E-96FC-CD921BDDFC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FF485D-1FED-419E-96FC-CD921BDDFC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEB1F3C-24AB-40E2-BAE4-54785B7E5F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEB1F3C-24AB-40E2-BAE4-54785B7E5F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEB1F3C-24AB-40E2-BAE4-54785B7E5F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEB1F3C-24AB-40E2-BAE4-54785B7E5F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593DEF5B-E212-4EE6-8930-BBB51D02C84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593DEF5B-E212-4EE6-8930-BBB51D02C84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593DEF5B-E212-4EE6-8930-BBB51D02C84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593DEF5B-E212-4EE6-8930-BBB51D02C84E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
